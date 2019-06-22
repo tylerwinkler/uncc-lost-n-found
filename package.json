@@ -1,0 +1,27 @@
+{
+  "name": "lostnfound",
+  "version": "1.0.0",
+  "description": "UNCC Lost n Found is a service that helps students and faculty find their missing belongings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerwinkler/uncc-lost-n-found"
+  },
+  "author": "Tyler Winkler",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.2.1",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.4",
+    "scss": "^0.2.4",
+    "sqlite3": "^4.0.9"
+  }
+}

@@ -1,0 +1,32 @@
+html, body
+{
+	background-image: url('/image/img.jpg');
+	background-repeat: no-repeat;
+	background-color: #fff;
+	background-size: cover;
+}
+
+.unc-green-text
+{
+	color: green;
+}
+
+.unc-gold-text
+{
+	color: gold;
+}
+
+.centered
+{
+	text-align: center;
+}
+
+.container
+{
+	background-color: #444;
+}
+
+.large
+{
+	width: 60%;
+}
